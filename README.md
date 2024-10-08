@@ -1,6 +1,6 @@
 # Beginner Data Science Projects
 
-This repository is a collection of beginner-level projects in data science, machine learning, and artificial intelligence. These projects are guided through the [Complete A.I. & Machine Learning, Data Science Bootcamp](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/?couponCode=KEEPLEARNING) on Udemy. The primary goal of this repository is to track my learning progress and demonstrate my skills, motivation, and commitment.
+This repository is a collection of beginner-level projects in data science, machine learning, and artificial intelligence. These projects are guided through the [Complete A.I. & Machine Learning, Data Science Bootcamp](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/?couponCode=KEEPLEARNING) on Udemy. The primary goal of this repository is to track my learning progress and demonstrate my motivation and commitment.
 
 ## Purpose
 I am currently enhancing my knowledge in data science, AI, and machine learning. Through this repository, I aim to:

@@ -8,16 +8,25 @@ I am currently enhancing my knowledge in data science, AI, and machine learning.
 - Showcase practical problem-solving abilities.
 - Demonstrate progress in mastering various data science techniques.
 - Build a portfolio of projects to present to employers.
-<!--
+
+## Projects
+### [Project 1: Predicting Heart Disease Using Machine Learning](Classification_Heart-Disease)
+  > Given clinical parameters about a patient, can we predict whether or not they have heart disease?
+
+The original data came from the Cleveland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/dataset/45/heart+disease
+A version of it is also available on Kaggle. https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data
+
 ## Projects Overview
 The projects in this repository cover a range of topics, including but not limited to:
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
 - Statistical Analysis
 - Supervised Learning (Regression and Classification)
+<!--
 - Unsupervised Learning (Clustering, Dimensionality Reduction)
 - Deep Learning (Neural Networks, Convolutional Neural Networks)
-- Natural Language Processing (NLP)-->
+- Natural Language Processing (NLP)
+- -->
 
 ## Technologies Used
 The projects will utilize the following tools and technologies:

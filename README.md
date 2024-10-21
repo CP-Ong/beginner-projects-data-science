@@ -22,17 +22,19 @@ A version of it is also available on Kaggle. https://www.kaggle.com/datasets/red
 The original data came from the Kaggle Bluebook for Bulldozers competition.
 https://www.kaggle.com/competitions/bluebook-for-bulldozers/data
 
+### [Project 3: Multi-Class Dog Breed Classification (Image_Classification)](Image-Classification_Dog-Vision)
+  > Given am image of a dog, can we identify the breed of the dog?
+
+The original data came from the Kaggle's dog breed identification competition.
+https://www.kaggle.com/c/dog-breed-identification/data
+
 ## Projects Overview
 The projects in this repository cover a range of topics, including but not limited to:
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
 - Statistical Analysis
 - Supervised Learning (Regression and Classification)
-<!--
-- Unsupervised Learning (Clustering, Dimensionality Reduction)
 - Deep Learning (Neural Networks, Convolutional Neural Networks)
-- Natural Language Processing (NLP)
-- -->
 
 ## Technologies Used
 The projects will utilize the following tools and technologies:
@@ -40,6 +42,7 @@ The projects will utilize the following tools and technologies:
 - **Pandas, NumPy**: Data manipulation and analysis
 - **Matplotlib, Seaborn**: Data visualization
 - **Scikit-Learn**: Machine learning models
+- **TensorFlow 2.0**: Deep learning and neural networks
 - **Jupyter Notebooks**: Interactive coding environment
 
 ## How to Use

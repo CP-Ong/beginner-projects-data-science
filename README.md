@@ -23,7 +23,7 @@ The original data came from the Kaggle Bluebook for Bulldozers competition.
 https://www.kaggle.com/competitions/bluebook-for-bulldozers/data
 
 ### [Project 3: Multi-Class Dog Breed Classification (Image_Classification)](Image-Classification_Dog-Vision)
-  > Given am image of a dog, can we identify the breed of the dog?
+  > Given an image of a dog, can we identify the breed of the dog?
 
 The original data came from the Kaggle's dog breed identification competition.
 https://www.kaggle.com/c/dog-breed-identification/data

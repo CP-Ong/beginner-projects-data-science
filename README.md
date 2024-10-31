@@ -14,7 +14,7 @@ I am currently enhancing my knowledge in data science, AI, and machine learning.
   > Given clinical parameters about a patient, can we predict whether or not they have heart disease?
 
 The original data came from the Cleveland data from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/45/heart+disease).
-A version of it is also available on [Kaggle](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)
+A version of it is also available on [Kaggle](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data).
 
 ### [Project 2: Predicting the Sale Price of Bulldozers Using Machine Learning (Regression_Time-Series-Data)](Regression_Bulldozer-Price)
   > How well can we predict the future sale price of a bulldozer, given its characteristics and previous examples of how much similar bulldozers have been sold for?
